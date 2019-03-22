@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+
+Name: org/versile/
+Sealed: true
+
+Name: org/versile/
+Specification-Title: Versile Java
+Specification-Version: 0.8.3
+Specification-Vendor: Versile AS
+Implementation-Title: org.versile
+Implementation-Version: 0.8.3
+Implementation-Vendor: Versile AS

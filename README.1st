@@ -1,0 +1,7 @@
+This is a source distribution of Versile Java. The README.txt file is
+intended for JAR binary distributions.
+
+Generated JAR files should include LICENSE.txt, MANIFEST.MF and README.txt.
+
+Javadoc must currently be generated with v1.6 source compatibility.
+
